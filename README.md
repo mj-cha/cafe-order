@@ -14,4 +14,6 @@ npm run dev
 - [x] DAY27 프로젝트 시작 — 강사 템플릿으로 내 저장소 만들기 · 첫 실행
 - [x] DAY28 메뉴 카드 — Header · MenuCard · Footer, props
 - [x] DAY29 담기 — useState로 담은 개수, useEffect로 탭 제목
-- [ ] DAY30 메뉴 목록과 거르기 — map · key · filter · 찾는 글자 칸 · 담은 메뉴 배열
+- [x] DAY30 메뉴 목록과 거르기 — map · key · filter · 찾는 글자 칸 · 담은 메뉴 배열
+- [x] DAY31 페이지 — 메뉴 · 메뉴 하나 · 장바구니 · 없는 주소(react-router)
+- [ ] DAY32 꾸미기 — Tailwind CSS, 좁은 화면 1칸 → 넓은 화면 2 · 3칸
